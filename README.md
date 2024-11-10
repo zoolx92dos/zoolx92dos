@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @zoolx92dos - call me Abhishek
+- 👀 I’m interested in the areas of Machine Learning, Deep Learning, LLMs, Cybersecurity and Privacy
+- 🌱 I’m currently learning the applications of Large Language Models, Edge AI, Capture the Flag (Cybersecurity)
+- 💞️ I’m looking to collaborate on active projects in the area of ML, Edge AI and Cybersecurity
+- 📫 How to reach me zoolx92dos@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have been using Linux since 2011, and never looked back. 
+
+<!---
+zoolx92dos/zoolx92dos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
