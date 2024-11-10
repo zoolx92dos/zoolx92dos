@@ -4,7 +4,7 @@
 - 📚 I’m looking to collaborate on active projects in the area of ML, Edge AI and Cybersecurity
 - 📫 How to reach me zoolx92dos@gmail.com
 - 🎛️ I know Linux Server Administration (Fedora and Debian based Systems), AWS Cloud.
-- Can code in Python and Javascript 
+- 👨‍💻 Can code in Python and Javascript 
 - ⚡ Fun fact: I have been using Linux since 2011, and never looked back. 
 
 <!---
