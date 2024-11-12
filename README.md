@@ -5,7 +5,7 @@
 - 📫 How to reach me zoolx92dos@gmail.com
 - 🎛️ I know Linux Server Administration (Fedora and Debian based Systems), AWS Cloud.
 - 👨‍💻 Can code in Python and Javascript 
-- ⚡ Fun fact: I have been using Linux since 2011. I have used Fedora and Debian based distros. EX200 Red Hat Certified System Administrator
+- ⚡ Into Linux: EX200 Red Hat Certified System Administrator. I have been using Linux since 2011. I have used Fedora and Debian based distros. 
 
 <!---
 zoolx92dos/zoolx92dos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
