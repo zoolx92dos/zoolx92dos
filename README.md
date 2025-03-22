@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zoolx92dos
-- 🤖 I’m interested in the areas of Machine Learning, Deep Learning, LLMs, Edge Computing, Cybersecurity and Privacy
+- 🤖 I’m interested in the areas of Machine Learning, Deep Learning, NLP, LLMs, Edge Computing, Cybersecurity and Privacy
 - 🌱 Interests: Small Language Models, Large Language Models, Edge AI, AI Policies and Frameworks, Capture the Flag (Cybersecurity)
 - 📚 I’m looking to collaborate on active projects in the area of ML, Edge AI and Cybersecurity
 - 📫 How to reach me zoolx92dos@gmail.com
