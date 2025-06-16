@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zoolx92dos
-- 🤖 I’m interested in the areas of Data Science, Machine Learning, Deep Learning, NLP, LLMs, Edge Computing, Cybersecurity and Privacy
-- 🌱 Interests: Machine Learning, Natural Language Processing, Small Language Models, Large Language Models, Edge AI, AI Policies and Frameworks, Capture the Flag (Cybersecurity)
+- 🤖 I’m interested in the areas of Data Science, Machine Learning, Deep Learning, NLP, LLMs, and Application of AI
+- 🌱 Interests: Machine Learning, Natural Language Processing, Small Language Models, Large Language Models, Edge AI, AI Policies and Frameworks
 - 📚 I’m looking to collaborate on active projects in the area of Data Science & Analytics, NLP, LLMs, ML, Edge AI, Information & Communication, Cybersecurity and Privacy
 - 📫 How to reach me zoolx92dos@gmail.com
 - 🎛️ I know Linux Server Administration (Fedora and Debian based Systems), AWS Cloud.
